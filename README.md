@@ -1,2 +1,2 @@
 # git-github
-Edureka course
+Thi sis following the Edureka course
